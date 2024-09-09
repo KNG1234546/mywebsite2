@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kng1234546.github.io/mywebsite2/sitemap.xml

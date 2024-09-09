@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kng1234546.github.io/mywebsite2/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kng1234546.github.io/mywebsite2/</loc>
+</url>
+<url>
+<loc>https://kng1234546.github.io/mywebsite2/about.html</loc>
+<lastmod>2024-09-06T10:18:22+02:00</lastmod>
+</url>
+<url>
+<loc>https://kng1234546.github.io/mywebsite2/recent-finds.html</loc>
+<lastmod>2024-09-06T10:11:56+02:00</lastmod>
+<image:image>
+<image:loc>https://kng1234546.github.io/mywebsite2/media/posts/2/2613900-amd-ryzen-9000-series-processor-tile-3.avif</image:loc>
+<image:title><![CDATA[Fast, reliable, efficient]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kng1234546.github.io/mywebsite2/media/posts/2/apple-vision-pro-features.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kng1234546.github.io/mywebsite2/media/posts/2/1_b4da78b0-d36f-4f6f-b3ba-884030dbb2c2_800x.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

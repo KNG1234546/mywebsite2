@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gaming Addict",
+    "description": "",
+    "home_page_url": "https://kng1234546.github.io/mywebsite2",
+    "feed_url": "https://kng1234546.github.io/mywebsite2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "K"
+    },
+    "items": [
+    ]
+}
